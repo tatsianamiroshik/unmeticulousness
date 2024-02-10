@@ -1,0 +1,26 @@
+{
+    "name": "Tonya Ray",
+    "age": 15,
+    "address": {
+        "street": "Ashley Mountains",
+        "city": "East Edwin",
+        "state": "Washington",
+        "zip": "94566"
+    },
+    "contact": {
+        "phone": "4725280135",
+        "servicePhone": "800823657"
+    },
+    "birthday": "2009-16-02",
+    "ip": "198.189.153.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Chance throughout structure during run smile. Court purpose manage radio information bring.",
+        "bio": "Medical page wish beyond those north along. Up radio us man style major above. Entire feel discussion lay address event."
+    },
+    "apiKey": "acfaddff4dee55127c1b83a69d2b3a46ebc4bb8afd4b768f4d9bf8d1bc1e0f74",
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
