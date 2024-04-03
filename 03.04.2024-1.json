@@ -1,0 +1,26 @@
+{
+    "name": "Ryan Robinson",
+    "age": 80,
+    "address": {
+        "street": "Sarah Camp",
+        "city": "Lake Mark",
+        "state": "Mississippi",
+        "zip": "19346"
+    },
+    "contact": {
+        "phone": "+1-527-343-9868x53620",
+        "servicePhone": "800430432"
+    },
+    "birthday": "1944-29-01",
+    "ip": "35.28.159.106",
+    "foo": "bar",
+    "profile": {
+        "about": "By detail choose similar adult. Reason public night become. Building whether black pass perhaps wait view.\nOne cell very truth remain series care appear. However partner concern adult build.",
+        "bio": "Bring official find past card ball rest contain. Sea sound road. Explain customer resource.\nFly leg fly player evidence course behind up. Role game can what station his myself."
+    },
+    "apiKey": "5ff32d823a22225ef3cf346f9edeae3710122663018b0b9debdd3cd02e03a97b",
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
