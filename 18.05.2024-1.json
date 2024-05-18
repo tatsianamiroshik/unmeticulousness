@@ -1,0 +1,26 @@
+{
+    "name": "Julie Andrews",
+    "age": 76,
+    "address": {
+        "street": "Grace Hill",
+        "city": "Singletonchester",
+        "state": "New York",
+        "zip": "79675"
+    },
+    "contact": {
+        "phone": "(645)614-0652x74079",
+        "servicePhone": "800334085"
+    },
+    "birthday": "1948-06-11",
+    "ip": "166.65.59.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Again various throughout century lead. Because lay enjoy make generation recognize. Turn within evidence wait. College bar issue the standard kitchen.",
+        "bio": "Coach western life trip player. Mrs example grow itself itself.\nCover sport once few TV enjoy. Government offer civil itself subject. Smile school positive term."
+    },
+    "apiKey": "626589ffcaf0ad5faa040c8391002fc8f46a9cf51dc8e6b02b868a5c3fcc3e5f",
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
