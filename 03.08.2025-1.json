@@ -1,0 +1,25 @@
+{
+    "name": "Ruth Chase",
+    "age": 109,
+    "address": {
+        "street": "Davis Passage",
+        "city": "West Emilyfort",
+        "state": "Arizona",
+        "zip": "65708"
+    },
+    "contact": {
+        "phone": "001-730-328-5497",
+        "servicePhone": "800329295"
+    },
+    "birthday": "1916-13-08",
+    "ip": "38.245.5.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Offer fine its form resource condition. When wrong civil theory. Medical without responsibility claim.",
+        "bio": "Career occur up one. Wait network experience different open item floor. Unit public adult draw American."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
